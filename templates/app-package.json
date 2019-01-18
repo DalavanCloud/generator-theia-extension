@@ -22,7 +22,7 @@
     "@theia/cli": "<%= params.theiaVersion %>"
   },
   "scripts": {
-    "prepare": "theia build --mode development",    
+    "prepare": "theia build --mode development",
     "start": "theia start",
     "watch": "theia build --watch --mode development"
   },
